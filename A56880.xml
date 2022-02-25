@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Queries of some tender conscienced Christians about the late Protestation commended to them by the House of Commons, now assembled in the High and Honourable Court of Parliament wherein they desire to be resolved concerning 1. the authority imposing it, 2. the necessity of it, 3. the danger of it, 4. whether it can be taken in faith ... / written by a learned divine.</title>
+            <author>Learned divine.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56880</idno>
+            <idno type="STC">Wing Q169</idno>
+            <idno type="STC">ESTC R11145</idno>
+            <idno type="EEBO-CITATION">13012185</idno>
+            <idno type="OCLC">ocm 13012185</idno>
+            <idno type="VID">96500</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56880)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96500)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 397:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Queries of some tender conscienced Christians about the late Protestation commended to them by the House of Commons, now assembled in the High and Honourable Court of Parliament wherein they desire to be resolved concerning 1. the authority imposing it, 2. the necessity of it, 3. the danger of it, 4. whether it can be taken in faith ... / written by a learned divine.</title>
+                  <author>Learned divine.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Oaths --  England.</term>
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96500:1"/>
+            <!-- PDF PAGE 91 -->
+            <pb facs="tcp:96500:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 91 -->
+            <p>QUERIES OF SOME TENDER Conſcienced CHRISTIANS.</p>
+            <p>About the late <hi>Proteſtation,</hi> commen<g ref="char:EOLhyphen"/>ded to them by the Houſe of Commons, now Aſſembled in the High and Honourable Court of <hi>Parliament,</hi>
+            </p>
+            <p>Wherein they deſire to be reſolved, Concerning
+<list>
+                  <item>1. The Authority impoſing it.</item>
+                  <item>2. The neceſſity of it.</item>
+                  <item>3. The danger of it.</item>
+                  <item>4. Whether it can be taken in Faith.</item>
+               </list>
+            </p>
+            <p>
+               <hi>As alſo</hi> Certaine Queries concerning the Ambiguity thereof, appearing in moſt, if not in all the ſeverall Branches thereof.</p>
+            <p>Together with a Form of ſuch an interpretation of it, as may ſafely be taken, and doth not goe a<g ref="char:EOLhyphen"/>gainſt the literall Sence.</p>
+            <p>
+               <hi>Written by a Learned Divine.</hi>
+            </p>
+            <p>Printed 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="queries">
+            <pb facs="tcp:96500:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 92 -->
+            <pb n="1" facs="tcp:96500:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 92 -->
+            <head>The <hi>Queries</hi> of certaine tender-Conſcienced Chriſtians, concerning the late <hi>Proteſtation,</hi> commen<g ref="char:EOLhyphen"/>ded to them by the Houſe of Commons, now Aſſem<g ref="char:EOLhyphen"/>bled in the High and Honourable Court of Parliament where<g ref="char:EOLhyphen"/>in they humbly crave a cleere ſatisfaction from their abler bre<g ref="char:EOLhyphen"/>thren, that they may take it with a well grounded and cheerefull Conſcience.</head>
+            <p>FIrſt, as concerning the Authority of it, whether it comes ſufficiently authoriſed to be impoſed up<g ref="char:EOLhyphen"/>on any, unleſſe by the joynt conſent of his ſacred Ma<g ref="char:EOLhyphen"/>jeſty, and both Houſes of that High and Honourable Court both Head and Members; We do not hereby intend to charge any with the guilt of combination againſt Authority, but in the tenderneſſe of our con<g ref="char:EOLhyphen"/>ſciences, humbly to ſignifie our juſt ſcruples about the authority impoſing it, and the contents of it; if it be ſaid, it is not to be impoſed on any, then we hope none can juſtly blame us; for uſing our lawful liberty, and refuſall of that, which is not impoſed on us.</p>
+            <p>Secondly, concerning the Neceſſity of it; what need is there of urging or taking a Proteſtation at this time; ſince Oathes, ſacred Bonds, are not to be taken without urgent neceſſity, unleſſe wee wil take the Name of God in Vaine: and though the prudence of the contrivers may ſee a neceſſity to co<g ref="char:cmbAbbrStroke">̄</g>mend it, yet
+<pb n="2" facs="tcp:96500:3"/>
+               <!-- PDF PAGE 93 -->it is no wonder if ſuch ſilly ones as we, ſee not the ne<g ref="char:EOLhyphen"/>ceſſity of taking it, untill they ſhall be pleaſed to im<g ref="char:EOLhyphen"/>part their reaſons. The conſcientious will hold them ſelves bound to maintaine the Doctrine eſtabliſhed, power of Parliaments, and liberty of Subjects with<g ref="char:EOLhyphen"/>out it, all others will ſleight it: we thinke in all humi<g ref="char:EOLhyphen"/>lity love a ſtronger bond then compulſion, and other meanes more effectuall for holding out of Popery, namely diligent Preaching, Prayer, Humiliation, and Reformation, whereby we may encreaſe in the know<g ref="char:EOLhyphen"/>ledge of the Truth, and the ability to defend us againſt the enemies of it. But for Miniſters it ſeemes leſſe needfull, who have already ſubſcribed and ſworne, and ſubſcribed to the Doctrine of the Church of England againſt Popery, againſt whom ſufficient Proviſoes are made in caſe they revolt.</p>
+            <p n="3">3. Thirdly what danger by multiplying Oathes? where diverſe for fear may be forced to take them, <hi>Re<g ref="char:EOLhyphen"/>luctante conſcientia.</hi> Moſt do make too little conſcience of them, and may endanger the land by drawing on it a Judgement for their ſlighting ſuch a ſacred bond, or violation of it, <hi>For Oathes the Land mournes, Ier.</hi> 25.10. Whereupon Saint <hi>Auſtin</hi> in his ſecond Sermon, <hi>De verbis Apoſtoli, Falſa juraetio exitioſa, vera iuratio pe<g ref="char:EOLhyphen"/>riculoſa, nulla iuratio ſecura eſt,</hi> Above all things my Brethren, ſweare not, <hi>Iſaiah</hi> 5.12.</p>
+            <p n="4">4. Fourthly, whether can this Oath be taken in Faith? without which, whatſoever we doe is ſin, <hi>Rom.</hi> 14.23. Now this Oath comprehends ſo many things of ſeve<g ref="char:EOLhyphen"/>rall kinds, and diverſe of them unknowne to moſt of us, that though we be ready to believe &amp; receive ſome of them ſingle, yet our Faith cannot fathom them al<g ref="char:EOLhyphen"/>together,
+<pb n="3" facs="tcp:96500:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 93 -->and ſo we cannot ſweare without doubting, and ſurely doubtful ſwearing is as dangerous as doubt<g ref="char:EOLhyphen"/>full eating, every Oath ſhould bee taken in Truth, Righteouſneſſe and Judgement. Ier. 4.2. How can we take an Oath in Judgement, not having a full perſwa<g ref="char:EOLhyphen"/>ſion in the meaning of it, or how can others with good Conſcience preſſe it on us, till they give us full ſatisfaction herein?</p>
+            <p>If it be anſwered that the Creed, &amp;c. are ambiguous, ſubject to doubtfull Interpretations, as appeares in di<g ref="char:EOLhyphen"/>vers Articles, yet upon this reaſon, may not bee refu<g ref="char:EOLhyphen"/>ſed to be ſworne: to this, the learned Divines of <hi>Aber<g ref="char:EOLhyphen"/>dine</hi> have given ſufficient anſwer. pag. 50. of their Du<g ref="char:EOLhyphen"/>plice, theſe are of Divine Authority, or next Divine, agreeable to the Word, approved by the uniforme conſent of all places in all ages. Whereupon wee are undoubtedly perſwaded that the contrivers of them did neither intend, nor yet ſet downe any untruth, and therefore we doe ſubmit to the unfallible authority of them, though ſome things be controverted in them, whereas we cannot ſuppoſe the ſame in any Oath con<g ref="char:EOLhyphen"/>trived by men, ſubject to errors, wanting that generall approbation.</p>
+            <div type="objections">
+               <pb n="4" facs="tcp:96500:4"/>
+               <!-- PDF PAGE 94 -->
+               <head>The Ambiguity of the OATH appeares to us in moſt, if not in all the ſeverall Branches of it.</head>
+               <p n="1">1. I <hi>Promiſe, Vow, and Proteſt, to maintaine with my life, goods, and Power, the true Proteſtant Religion, expreſsed in the Doctrine of the Church of</hi> England. <hi>Quaere,</hi> What is the Doctrine of the Church of England? Whe<g ref="char:EOLhyphen"/>ther that in the 39 Articles? Why is it not ſpecified that we may know to what we ſweare? Whether may it not be extended to that which hereafter ſhal be eſta<g ref="char:EOLhyphen"/>bliſhed; ſince in the Oath it is not <hi>(now expreſſed, or al<g ref="char:EOLhyphen"/>ready eſtabliſhed) but, Expreſsed,</hi> in the Doctrine of the Church of England; which we ſuppoſe will bind us, if expreſſed hereafter; if ſo, None will ſet his ſeale to a blanke bond, ſo as the Obligee may make his dept as large as he liſteth: and we conceive we ſhould bee more cautelous in engaging our ſelves by Oath, then our Eſtate by Bond, ſince the tye is more vigorous, and the breach more dangerous. <hi>Ley. pag.</hi> 55.</p>
+               <p n="2">2 <hi>I ſweare to maintaine this Doctrine againſt all Popery and popiſh Innovations. Quaere,</hi> in what extent is Pope<g ref="char:EOLhyphen"/>ry here abjur'd? Whether onely in Doctrinalls, and ſuch onely as are fundamentall or come nigh the foun<g ref="char:EOLhyphen"/>dation? or to remoter ſuperſtructions undetermined? Wherein it hath alwayes bin held lawfull for Schol<g ref="char:EOLhyphen"/>lars to vary, and <hi>abundare ſenſu ſuo.</hi> Whether to Diſ<g ref="char:EOLhyphen"/>cipline alſo? and hath not epiſcopacy bin branded for a Popiſh Hierarchie, and the Miniſters ordained
+<pb n="5" facs="tcp:96500:4" rendition="simple:additions"/>
+                  <!-- PDF PAGE 94 -->by them and ſtanding under them. Notwithſtanding it hath beene allowed by our Doctrine, and eſtabliſhed by our law? Hath not our Liturgy (though eſtabli<g ref="char:EOLhyphen"/>ſhed by Act of Parliament) beene rejected as Popiſh? and all innocent Ceremonies (though ancienter farre then Popery) if abuſed by them? Nay one of late, a<g ref="char:EOLhyphen"/>gainſt Popiſh Ceremonies tels us, that an oath muſt be extended to the largeſt ſenſe; <hi>Diſput. againſt Engl. Ceremonies, p.</hi> 93.97.</p>
+               <p n="3">3. I <hi>ſweare to maintain the power and priviledge of Parli<g ref="char:EOLhyphen"/>aments, &amp; the lawfull liberty and rights of Subjects. Quaer.</hi> What are thoſe priviledges of Parliaments and rights of Subjects? Are theſe evident by the light of nature? that upon notifying them, every one that ſweares is a<g ref="char:EOLhyphen"/>ble to give his aſſent, acknowledging them undoubted priviledg<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and rights? or doe they vary in diverſe Countries, according to the different conſtitutions of Statutes and charters depending on poſitive lawes? Why are we not directed to thoſe lawes? where we may be clearely informed, what are thoſe undoubted privi<g ref="char:EOLhyphen"/>ledges and rights?</p>
+               <p n="4">4. <hi>I will maintain every perſon that maketh this Protesta<g ref="char:EOLhyphen"/>tion, in what he ſhall doe in the lawfull purſuance of the ſame. Quaer.</hi> Whether am I hereby bound to imbroyle my ſelfe in every private quarrell betwixt particular per<g ref="char:EOLhyphen"/>ſons? Suppoſe one that hath taken this Proteſtation be oppreſſed by ſome great one and purſue his right. Whether am I hereby bound to engage my ſelfe? If it be with reference to the publicke State. Whether am I alone bound to maintaine him in his rights, or only joyntly with others? And how ſhall I be aſſured that it is his right, and that his purſuance is lawfull, that I may joyne with him?</p>
+               <pb n="6" facs="tcp:96500:5"/>
+               <!-- PDF PAGE 95 -->
+               <p n="5">5. <hi>I will oppoſe and bring to condign puniſhment, all ſuch as ſhall doe any thing to the contrary. Quer.</hi> Whether is his ſacred Majeſty and his lawfull Succeſſors here excep<g ref="char:EOLhyphen"/>ted, in caſe they ſhould attempt ſome innovation in Religion, or to infringe the liberty of Parliaments; or the rights of Subjects, or to oppoſe any that hath ta<g ref="char:EOLhyphen"/>ken this Proteſtation? Now to take up armes againſt our Soveraigne, either offenſive or defenſive, we have not as yet learned. We neither in the Scriptures, nor the writings, nor practice of primitive times find any other remedy for Subjects unjuſtly proſecuted by He<g ref="char:EOLhyphen"/>reditary Monarches, but flight from their wrath, or pa<g ref="char:EOLhyphen"/>tient ſuffering, or humble ſupplication with teares and prayers. Nor dare we ſubſcribe till we ſee thoſe argu<g ref="char:EOLhyphen"/>ments anſwered in the learned Duplice of the Divines of Aberdine, <hi>pag.</hi> 160. If his Majeſty be excepted, why is it not expreſſed? Nor can the expreſſion of ſuch an exception be thought needleſſe, though elſe<g ref="char:EOLhyphen"/>where we ſweare to maintaine the King.</p>
+               <p>Nor can it ſeeme a greater tenderneſſe of his Maje<g ref="char:EOLhyphen"/>ſties Honour, to omit the exception in this clauſe, ſup<g ref="char:EOLhyphen"/>poſing his Majeſties conſtancy in Religion, and equi<g ref="char:EOLhyphen"/>table diſpoſition in the adminiſtration of Juſtice. Surely the modeſt requeſt of ſuch an exception can<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot in the judgment of any reaſonableman, import the ſlen<g ref="char:EOLhyphen"/>dereſt ſuſpition of his Majeſties inconſtancy in Reli<g ref="char:EOLhyphen"/>gion, or diſpoſition to injuſtice. None are more fully ſetled in their good opinion of him then we. But wee provide for our owne peace, in caſe of diſpute about the boundaries of Religion, priviledge of Parliaments, and rights of Subjects. Nor do we caſt the leaſt aſper<g ref="char:EOLhyphen"/>ſion of imprudence or diſloyalty upon the contri<g ref="char:EOLhyphen"/>vers
+<pb n="7" facs="tcp:96500:5" rendition="simple:additions"/>
+                  <!-- PDF PAGE 95 -->of this Proteſtation, which we doubt not but their wiſedomes can eaſily cleare, and we much crave may be cleared to us.</p>
+               <p n="6">6. In caſe of diſpute, what is the Religion eſtabliſhed? power and priviledge of Parliaments? rights of Sub<g ref="char:EOLhyphen"/>jects? and the lawfull meanes of the purſuance of the ſame? or concerning the boundaries of thoſe? who ſhall be Judge? The dictate of every private mans con<g ref="char:EOLhyphen"/>ſcience? That were to expoſe the Kingdome to per<g ref="char:EOLhyphen"/>petuall contention; the Parliament? what if a diſpute a<g ref="char:EOLhyphen"/>riſe when no Parliament ſits? The King and Counſell? or ſome deputed by his Majeſty and the Parliament? or the ſtronger part?</p>
+               <p n="7">7. <hi>I ſweare never to relinquiſh this Proteſtation,</hi> &amp;c. <hi>Quaere,</hi> doth this clauſe bind me for ever in no caſe to alter? What if the King and State ſhould find it expedient hereafter to revoke this Proteſtation, or ſomething in it? Why is not there a reſervation of liberty to change with the State? Maſter <hi>Ley</hi> in his booke of the late Canons, <hi>pag.</hi> 86. thinks it unfit to make <hi>Median</hi> &amp; <hi>Perſian</hi> Proteſtations, that cannot be <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tered, when as ſuch changes may fall in a State, as the wiſeſt law may be thought neceſſary to be altered, and therefore to receive no farther eſtabliſhment, then may agree with all humane lawes to be left alterable.</p>
+               <p>Nor let us be thought herein to wrong our ſelves, in forging exceptions and laying impediments in our own way. We walk in ſincerity according to our light, not forging to our ſelves impediments or lay<g ref="char:EOLhyphen"/>ing ſtumbling blockes in our owne way, but ſhew<g ref="char:EOLhyphen"/>ing ſuch as ſeeme to be layd in our way, by the in<g ref="char:EOLhyphen"/>commodious expreſſion of the Proteſtation. If any
+<pb n="8" facs="tcp:96500:6"/>
+                  <!-- PDF PAGE 96 -->thinke our doubts are too many, perchance he thinks too little of the peace of conſcience of private Chri<g ref="char:EOLhyphen"/>ſtians, and price of Miniſtery.</p>
+               <p>If any inforcement ſhould be uſed, our ſuſpence, till ſatisfaction be given, may be charitably aſcribed rather to conſcience then contumacy. And therefore the caſe ſo ſtanding, we hope we ſhall neither be preſ<g ref="char:EOLhyphen"/>ſed to the taking, nor our modeſt refuſall oppreſſed with any penalty.</p>
+               <p>What pitty were it? which ſome mens feares begin to ſuggeſt, that after our painefull ſtudies in the Univerſities, the expence of our patrimonies in out coſtly education (which might have maintained us plentifully in another courſe.) After our painefull imployments in our Paſtorall charge, to the tyring out of our ſtrength. After our families encreaſed a<g ref="char:EOLhyphen"/>bove our abilities to ſupport them (without the meanes we receive from the Church) to be thruſt out of all, who cannot dig, and are aſham'd to beg. After our hopes of removall of all burdens, now to be op<g ref="char:EOLhyphen"/>preſſed. With the ſame tongue that hath bleſt God for the heroicke zeale of that High and Honourable Court in removall of one Oath, now to complaine of the preſſure of our conſciences by another? that when ſuch care is taken for the eſtabliſhment of the rights of Subjects (ſhould this Oath come hereafter to be preſ<g ref="char:EOLhyphen"/>ſed) it might ſtrip us of al which we conceive derogato<g ref="char:EOLhyphen"/>ry to our rights, who are not the worſt Subjects. That thoſe, who have complained of ſubſcriptions &amp; oaths theſe eighty yeares (though of ſuch things onely as were eſtabliſhed by Parliament) ſhould now be ſo for<g ref="char:EOLhyphen"/>ward to promote this, and preſſe it upon others.
+<pb n="9" facs="tcp:96500:6" rendition="simple:additions"/>
+                  <!-- PDF PAGE 96 -->When divers things eſtabliſhed by law were incon<g ref="char:EOLhyphen"/>ſtrued, the Church and State thought it expedient to interpreat them, as appeares, by divers Canons, Ru<g ref="char:EOLhyphen"/>bricks, and Injunctions, and the preface to the Com<g ref="char:EOLhyphen"/>mon Prayers. When the Oath of Supremacy was in<g ref="char:EOLhyphen"/>conſtrued, King <hi>Iames</hi> of bleſſed Memory, vouchſafed to cleare it by publicke writings, and after to cleare this explication from all objections of <hi>Fall</hi> and o<g ref="char:EOLhyphen"/>thers, by Biſhop <hi>Andrewes</hi> and others. When the Re<g ref="char:EOLhyphen"/>verend Primate of <hi>Armagh</hi> had cleared the ſame Oath in <hi>Ireland,</hi> the King gave him thanks for his paines ta<g ref="char:EOLhyphen"/>ken therein, by a Letter now Printed. And this pre<g ref="char:EOLhyphen"/>ſent Parliament to remove the feare of ſome Londo<g ref="char:EOLhyphen"/>ners (as we heare) vouchſafed to ſet forth an interpre<g ref="char:EOLhyphen"/>tation of one clauſe of this Proteſtation.</p>
+               <p>Whether would it not highly commend their pru<g ref="char:EOLhyphen"/>dence, and eternize their goodneſſe, to vouchſafe a further interpretation of all the ſeverall branches of it, or authorize by ſpeciall Commiſſion, ſome grave, wiſe men, in every Dioceſſe, to admit of ſuch inter<g ref="char:EOLhyphen"/>pretations as did not goe againſt the literall ſenſe, and cleare it from all ambiguity.</p>
+            </div>
+            <div type="suggested_amendment">
+               <head>Whether this interpretation, or ſuch like might be accepted.</head>
+               <p n="1">1. I Sweare to maintaine the Doctrine expreſſed in the Church of <hi>England, &amp;c.</hi> I underſtand the Doctrine already eſtabliſhed in <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he 39. Articles.</p>
+               <p n="2">2. This Doctrine I will maintaine againſt all Po<g ref="char:EOLhyphen"/>pery, and Popiſh innovations <hi>&amp;c.</hi> I underſtand all
+<pb n="10" facs="tcp:96500:7"/>
+                  <!-- PDF PAGE 97 -->Popery Doctrinall, and innovations practicall, contrary to the Doctrine already eſtabliſhed.</p>
+               <p n="3">3. I Sweare to maintaine the power and priviledge of Parliaments, the lawfull liberty and rights of Sub<g ref="char:EOLhyphen"/>jects, <hi>&amp;c.</hi> I underſtand this ſo far as they ſhal be eviden<g ref="char:EOLhyphen"/>ced to me, by the ſtanding lawes of this Kingdom, not repugnant to the lawes of God, to be undoubted privi<g ref="char:EOLhyphen"/>ledges and rights, and further the maintenance of theſe rights of Subjects, I underſtand not with reference to one another, to be hereby bound to imbroy I my ſelf in every private mans quarrell, though I conceive right, but with reference to the publike State.</p>
+               <p n="4">4. I will maintaine every perſon that maketh this Proteſtation, in whatſoever he ſhall doe in the lawfull purſuance of the ſame, <hi>&amp;c.</hi> This maintenance I under<g ref="char:EOLhyphen"/>ſtand not to bind me to maintaine them by my ſelfe alone, but together with others conſenting and law<g ref="char:EOLhyphen"/>fully authoriſed, the ſame I underſtand of oppoſing in the next clauſe.</p>
+               <p n="5">5. I will oppoſe and bring to condigne puniſh<g ref="char:EOLhyphen"/>ment, <hi>&amp;c.</hi> In all the ſeverall clauſes, I expreſſely except his ſacred Majeſty, and his lawfull ſucceſſors, accor<g ref="char:EOLhyphen"/>ding to my Oath of Allegiance, not daring to thinke a diſloyall thought, much leſſe to lift up my hand a<g ref="char:EOLhyphen"/>gainſt the Lords Annoynted.</p>
+               <p n="6">6. I will never relinquſh this Proteſtation, <hi>&amp;c.</hi> Unleſſe the State ſhall thinke it expedient to alter or revoke it, in which caſe I reſerve my freedome.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96500:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+         </div>
+      </body>
+   </text>
+</TEI>
